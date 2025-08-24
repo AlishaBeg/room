@@ -4,7 +4,7 @@
 It allows multiple clients to connect to a server, join rooms, send messages, and interact in real time.  
 The server has full control over user management and room access.  
 
-
+```
           ┌────────────┐
           │   Server   │
           └─────┬──────┘
@@ -17,7 +17,7 @@ Client A      Client B      Client C
 (public)      (public)      (admin)
 
 
----
+```
 
 ### Server  
 - Manages all client connections.  
