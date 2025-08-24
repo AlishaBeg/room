@@ -16,7 +16,6 @@ Client A      Client B      Client C
 (Alice)       (Bob)         (Admin="")
 (public)      (public)      (admin)
 
-
 ```
 
 ### Server  
@@ -151,5 +150,6 @@ SOCKET.close()
 # Close server SOCKET
 
 SOCKET.close()
+
 
 ```
