@@ -1,0 +1,20 @@
+{
+  "name": "room",
+  "version": "2.0.1",
+  "description": "Python socket use to create CLI server and client script",
+  "main": "No",
+  "scripts": {
+    "start": "python server.py",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "room",
+    "alisha"
+  ],
+  "author": "alisha",
+  "license": "ISC"
+}
